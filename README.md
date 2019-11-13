@@ -30,3 +30,17 @@ Create four separate notebooks to answer four business questions as described in
 Provide concluding remarks to the four 4 business questions based on the analysis you did in the notebooks
 Complete short quizzes for each of the four business questions.
 Review one of your peers’ work (4 separate notebooks with answers to the 4 business questions) and grade that person's answers.
+
+## Prerequisites
+To successfully complete this capstone project, you must understand how to use data science techniques such as data analysis, data visualization, and machine learning by using Python.
+
+Before taking this course, you should have already completed following courses:
+
+-[ ] Python Basics for Data Science
+-[ ] Analyzing Data with Python
+-[ ] Visualizing Data with Python and
+-[ ] Machine Learning with Python: A Practical Introduction
+
+You need to use the Python programming language in Jupyter notebooks. You need to run the notebooks by using minimum environment of 4 CPU and 16 GB.
+
+Important: Before you download the notebooks, ensure that you remove all your user credentials.
