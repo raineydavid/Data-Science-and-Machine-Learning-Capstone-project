@@ -1,15 +1,17 @@
 # Data-Science-and-Machine-Learning-Capstone-project
 EDX course 
 
+## Learning Objectives
 
 This capstone project will showcase your data science and machine learning skills to solve real business problems.
 
 After the successful completion of this project, you will know how to:
 
-Use data science methodologies to address real-world business problems
-Support business decision based on results from a data science activity
+- [ ] Use data science methodologies to address real-world business problems
+- [ ] Support business decision based on results from a data science activity
 
-Welcome to the Data Science and Machine Learning Capstone project!
+
+## Welcome to the Data Science and Machine Learning Capstone project!
 In this project, you will answer questions about real-life business problems by using data science techniques.
 
 You’ll have to use your knowledge of data science to address the problems and provide solutions. You will also share your answers to these problems with other students.
